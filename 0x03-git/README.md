@@ -1,1 +1,1 @@
-My journey as a software engineer has began
+It's time to code!
